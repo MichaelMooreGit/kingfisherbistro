@@ -13,7 +13,7 @@ header {
 
 .index-main-content {
    background-color: #F3F3F3;
-   background-image: url('/Users/michaelmoore/Desktop/Kingfisher-Bistro/images/background-texture/background-texture.svg');
+   background-image: url('./images/background-texture.svg');
    background-repeat: no-repeat;
    background-size: auto 90%;
    background-position: center right;
@@ -22,7 +22,7 @@ header {
 @media (max-width: 768px) {
    .index-main-content {
        background-color: #F3F3F3;
-       background-image: url('/Users/michaelmoore/Desktop/Kingfisher-Bistro/images/background-texture/background-texture.svg');
+       background-image: url('./images/background-texture.svg');
        background-repeat: no-repeat;
        background-size: auto 90%;
        background-position: center left;
